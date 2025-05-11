@@ -30,8 +30,8 @@ import com.example.basicscodelab.ui.theme.BasicsCodelabTheme
 
 val LightBrown = Color(0x7091735E)
 val DarkBrown = Color(0xFF593E33)
-val LightTextOnBrown = Color(0xFFC9A584)
-val LightTextLighter = Color(0xFFEFDCC8)
+val LightTextOnBrown = Color(0xFFC9A284)
+val LightTextLighter = Color(0xFFE5D2BD)
 val LighterBrownForDark = Color(0xA8493A31)
 
 data class Course(
